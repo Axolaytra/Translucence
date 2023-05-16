@@ -13,10 +13,10 @@
 @import url(https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css);
 
 :root {
-	--app-bg: url(https://i.imgur.com/bgmVeyt.jpg);
-	--app-blur: 6px;
-	--app-margin: 24px;
-	--app-radius: 8px; /*	-	*/
+	--app-bg: url(https://images.hdqwalls.com/download/xiaomi-mi-gaming-laptop-stock-4k-nx-2560x1440.jpg);
+	--app-blur: 0px;
+	--app-margin: 12px;
+	--app-radius: 4px; /*	-	*/
 	
 	--accent-hue: 156;
 	--accent-saturation: 77.5%;
@@ -37,7 +37,7 @@
 	--reply-lightness: 61.8%;
 	--reply-opacity: 1; /*	-	*/
 
-	--textarea-color: 255,255,255;
+	--textarea-color: 000,000,000;
 	--textarea-alpha: 0.1;
 	--textarea-alpha-focus: 0.15;
 	--textarea-text-color: #fff;
