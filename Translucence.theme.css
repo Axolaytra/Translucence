@@ -18,14 +18,14 @@
 	--app-margin: 12px;
 	--app-radius: 4px; /*	-	*/
 	
-	--accent-hue: 282.09;
-	--accent-saturation: 100%;
-	--accent-lightness: 41.4%;
+	--accent-hue: 276.9;
+	--accent-saturation: 87.4%;
+	--accent-lightness: 53.3%;
 	--accent-opacity: 1;
 	--accent-text-color: #000; /*	-	*/
 
-	--sidebar-color: rgba(0,0,0,0.4);
-	--main-content-color: rgba(0,0,0,0.2); /*	-	*/
+	--sidebar-color: rgba(0,0,0,0);
+	--main-content-color: rgba(0,0,0,0); /*	-	*/
 
 	--message-color: rgba(0,0,0,0);
 	--message-radius: 8px;
@@ -43,9 +43,9 @@
 	--textarea-text-color: #fff;
 	--textarea-radius: 22px;  /*	-	*/
 
-	--card-color: rgba(0,0,0,0.4);
-	--card-color-hover: rgba(0,0,0,0.5);
-	--card-color-select: rgba(0,0,0,0.7); /*	-	*/
+	--card-color: rgba(0,0,0,0);
+	--card-color-hover: rgba(0,0,0,0);
+	--card-color-select: rgba(0,0,0,0); /*	-	*/
 	
 	--button-height: 32px;
 	--button-padding: 0 16px;
